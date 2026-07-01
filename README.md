@@ -74,7 +74,12 @@ pip install openpyxl
 ```
 
 ---
+## Google Colab Sandbox
 
+1. Open the provided Colab notebook.
+2. Upload the required project files and `candidates_sample.jsonl` (≤100 candidates).
+3. Run all cells.
+4. The notebook generates `DevFusion.csv` and `DevFusion.xlsx`.
 ## Run
 
 ```
